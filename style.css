@@ -1,0 +1,33 @@
+body {background-color: black;}
+    p {color: aliceblue;}
+    h1 {color: aliceblue;}
+
+    body {text-align: center;}
+
+    
+    button {
+        border:1px solid #25692A;
+        border-radius:4px;
+        display:inline-block;
+        cursor:pointer;
+        font-family:Verdana;
+        font-weight:bold;
+        font-size:13px;
+        padding:6px 10px;
+        text-decoration:none;
+        } 
+
+        img { -webkit-transition: all is ease;
+        }
+            img:hover {
+                -webkit-transform:scale(1.50);
+         
+        }
+
+        
+        img {
+            max-width:300px;
+            max-height:250px;
+            width: auto;
+            height: auto;
+        }
